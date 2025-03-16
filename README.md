@@ -3,7 +3,7 @@
 A simple Rock Paper Scissors game built with **HTML, CSS, and JavaScript**. Play against the computer and test your luck!  
 
 ## 🚀 Live Demo  
-[Click here to play](C:/Users/Admin/Documents/Web%20Development/JS/Rock%20Paper%20Scissors/index.html)  
+[Click here to play](https://manojrtech.github.io/Rock-Paper-Scissors/)  
 
 ## 📌 Features  
 ✅ Interactive UI with animations  
